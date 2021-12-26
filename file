@@ -1,0 +1,6 @@
+For Ubuntu 20.04 AWS ec2 instance
+
+ sudo apt install python3.8 -y
+ sudo apt install python3.8-dev -y
+ sudo apt install python3.8-venv -y
+ python --version
